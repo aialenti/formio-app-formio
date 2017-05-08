@@ -16,6 +16,6 @@
     "ng-formio-builder": "https://github.com/aialenti/ngFormBuilder.git#master",
     "bootswatch": "^3.3.7",
     "font-awesome": "^4.7.0",
-    "ng-formio-helper": "^1.0.0"
+    "ng-formio-helper": "https://github.com/aialenti/ngFormioHelper.git#master"
   }
 }
